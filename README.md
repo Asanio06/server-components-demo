@@ -1,4 +1,6 @@
-# React Server Components Demo
+# React Server Components Demo (Can be use with Gitpod)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Asanio06/server-components-demo)
+
 
 * [What is this?](#what-is-this)
 * [When will I be able to use this?](#when-will-i-be-able-to-use-this)
